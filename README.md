@@ -1,3 +1,3 @@
 Otavio Shine e Laura Shine
-<img src="<img width="475" height="421" alt="image" src="https://github.com/user-attachments/assets/22fdc126-42dc-4676-9ea1-503e6da3c607" />
+"<img width="475" height="421" alt="image" src="https://github.com/user-attachments/assets/22fdc126-42dc-4676-9ea1-503e6da3c607" />
 ">
