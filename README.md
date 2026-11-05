@@ -1,7 +1,53 @@
 Otavio Shine e Laura Shine
 
+# Sobre Mim
+<a href="https://github.com/brunosesitds">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=brunosesitds&logo=GitHub&color=1d7ecd" />
+</a>
 
 
-<img width="475" height="421" alt="image" src="https://github.com/user-attachments/assets/22fdc126-42dc-4676-9ea1-503e6da3c607" />
+# Conquistas
 
-<img width="475" height="421" alt="image" src="https://github.com/user-attachments/assets/8caa04f8-6382-45b2-bf01-c4ac8315645a" />
+<p>
+  <img src="# Sobre Mim
+<a href="https://github.com/otaviomart7">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=otaviomart7&logo=GitHub&color=1d7ecd" />
+</a>
+
+
+# Conquistas
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/CruzDeMalta.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" width="40" alt="Descrição da imagem">
+ 
+</p>
+
+
+
+
+
+---
+# Já está saindo?
+<p>
+  <img align="left" height="300" alt="GIF" src="public/gif/profile.gif"/>
+
+  &nbsp;&nbsp; ***Check out my [repositories](https://github.com/Marco-Veio?tab=repositories) first!***
+</p>
+" width="40" alt="Descrição da imagem">
+  <img src="https://github.com/user-attachments/assets/01b84ac6-670f-48f5-a9e7-0432613430df" width="40" alt="Descrição da imagem">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Escudo_Vasco_1898.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" width="40" alt="Descrição da imagem">
+  <img src="https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/EscudoDoVascoDaGama.svg/250px-EscudoDoVascoDaGama.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="40" alt="Descrição da imagem">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/250px-Gremio_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="40" alt="Descrição da imagem">
+</p>
+
+
+
+
+
+---
+# Já está saindo?
+<p>
+  <img align="left" height="300" alt="GIF" src="public/gif/profile.gif"/>
+
+  &nbsp;&nbsp; ***Check out my [repositories](https://github.com/Marco-Veio?tab=repositories) first!***
+</p>
